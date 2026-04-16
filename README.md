@@ -32,3 +32,6 @@ Proses dalam notebook mengikuti tahapan berikut:
 7. Klasifikasi menggunakan KNN
 8. Evaluasi Model
 9. Perbandingan Hasil
+
+**Note :**
+Dataset yang digunakan dalam penelitian ini tidak dibagikan secara publik karena bersifat pribadi. Namun, seluruh proses analisis, metode, serta implementasi model tetap disajikan secara lengkap dalam notebook. Penelitian ini diharapkan dapat menjadi referensi dan memberikan wawasan bagi pengembangan analisis sentimen, khususnya pada data evaluasi akademik.
